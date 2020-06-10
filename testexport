@@ -1,0 +1,15 @@
+[
+  {
+    "name" : "test",
+    "origin" : "https:\/\/github.com\/terrychou\/test.git",
+    "oid" : "7b63cc0dd329ec13f5771a8aec9927f022bb0127",
+    "rev" : "b:master"
+  },
+  {
+    "oid" : "d48ab70721d4f688ed34bd5939e2d6f4c89548c5",
+    "origin" : "https:\/\/github.com\/preservim\/nerdtree",
+    "rev" : "b:master",
+    "docDir" : "doc",
+    "name" : "nerdtree"
+  }
+]
